@@ -85,7 +85,7 @@ top: 0;
 transform: scale(1);
 width: 100vw;
 z-index: 0;
-background-image: url('assets/images/bg.jpg?v=ec014836');
+background-image: url('/assets/images/bg.jpg');
 background-position: center;
 background-repeat: no-repeat;
 background-size: 20rem;
