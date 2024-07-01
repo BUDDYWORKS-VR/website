@@ -1,0 +1,8 @@
+{
+    "name": "BUDDYWORKS",
+    "short_name": "BUDDYWORKS",
+    "description": "BUDDYWORKS is a community by creators for creators, helping and educating in all things unity and blender with VRC context.",
+    "theme_color": "#FDDA0D",
+    "background_color": "#191919",
+    "display": "standalone"
+}
